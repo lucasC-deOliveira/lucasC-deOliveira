@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Lucas Carvalho De Oliveira](https://github-readme-stats.vercel.app/api?username=lucasC-deOliveira&show_icons=true&theme=radical)
+![Lucas Carvalho De Oliveira](https://github-readme-stats.vercel.app/api?username=lucasC-deOliveira&show_icons=true&theme=radical)
 
 ![github followers](https://img.shields.io/github/followers/lucasC-deOliveira?style=social)
