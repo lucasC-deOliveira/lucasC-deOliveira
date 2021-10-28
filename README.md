@@ -1,5 +1,5 @@
 ### Hi there 👋
-[!Lucas Carvalho De Oliveira](https://github-readme-stats.vercel.app/api?username=lucasC-deOliveira&show_icons=true&theme=radical)
+[![Lucas Carvalho De Oliveira](https://github-readme-stats.vercel.app/api?username=lucasC-deOliveira&show_icons=true&theme=radical)
 
 
 
