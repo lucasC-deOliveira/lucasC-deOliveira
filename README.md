@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 [![Lucas Carvalho De Oliveira](https://github-readme-stats.vercel.app/api?username=lucasC-deOliveira&show_icons=true&theme=radical)
 
-https://img.shields.io/github/followers/lucasC-deOliveira?style=social
+![github followers](https://img.shields.io/github/followers/lucasC-deOliveira?style=social)
