@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Lucas Carvalho De Oliveira](https://github-readme-stats.vercel.app/api?username=lucasC-deOliveira&show_icons=true&theme=radical)
+
 
 
 
@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Lucas Carvalho De Oliveira](https://github-readme-stats.vercel.app/api?username=lucasC-deOliveira&show_icons=true&theme=radical)
+
+https://img.shields.io/github/followers/lucasC-deOliveira?style=social
