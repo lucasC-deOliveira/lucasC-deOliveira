@@ -33,8 +33,8 @@
  ### 
  
  <div align="center" style="display: inline-block;">
-<img src="https://github-readme-stats.vercel.app/api?username=lucasC-deOliveira&show_icons=true&theme=dracula" alt="Github status bar" width="48%" height="180em" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasC-deOliveira&layout=compact" alt="Top languages used"  width="48%" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=lucasC-deOliveira&show_icons=true&theme=dracula" alt="Github status bar" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasC-deOliveira&layout=compact" alt="Top languages used"   height="180em"/>
 </div
 
  ####
