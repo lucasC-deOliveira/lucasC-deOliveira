@@ -1,3 +1,4 @@
+<img src="https://media.giphy.com/media/idGw983D7CHrrXa2eO/giphy.gif" width="100%" height="200em"/>
 <h3 align="center">👋Ola sou o Lucas🎓<h3>
 <p align="center">Seja bem vindo ao meu GitHub Profile<p>
 
