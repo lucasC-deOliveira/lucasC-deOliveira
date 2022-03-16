@@ -4,7 +4,7 @@
 
 #### Sobre mim
  ```
- Tenho 21 anos
+ Tenho 21 anos 🧑‍🚀
  Sempre fui apaixonado por tecnologia ❤️
  Estou cursando, o 7º periodo de Engenharia de software na UNICEPLAC-Gama-DF 🧑‍🎓
  Atualmente estou focado no desenvolvimento web fullstack 🚀 🚀
