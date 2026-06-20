@@ -71,16 +71,12 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasC-deOliveira&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" height="170px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasC-deOliveira&theme=dracula&hide_border=true" alt="GitHub Streak" height="170px"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lucasC-deOliveira&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=lucasC-deOliveira&theme=dracula&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasC-deOliveira&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" height="170px"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lucasC-deOliveira&theme=dracula&no-frame=true&column=7&margin-w=10" alt="Trophies"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasC-deOliveira&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages"/>
 </div>
 
 ---
