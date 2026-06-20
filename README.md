@@ -72,7 +72,7 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=lucasC-deOliveira&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=lucasC-deOliveira&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats"/>
 </div>
 
 <div align="center">
