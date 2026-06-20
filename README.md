@@ -5,6 +5,9 @@
 </h1>
 
 <p align="center">
+  <a href="https://portfolio-beta-six-wmlhwe7jae.vercel.app/">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-2bff88?style=for-the-badge&logo=vercel&logoColor=black&labelColor=04140b&color=2bff88" alt="Portfólio"/>
+  </a>
   <a href="https://www.linkedin.com/in/lucas-c-oliveira/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
