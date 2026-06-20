@@ -24,7 +24,7 @@
 🛠️  Gosto de microsserviços, integração via APIs e código limpo
 🎯  Foco em otimizar fluxos de trabalho e entregar com qualidade
 🌐  Português (nativo) · Inglês (C1) · Espanhol (básico)
-🔧  Curiosidade desde criança: adorava desmontar brinquedos eletrônicos só pra ver o que tinha dentro
+🔧  Curiosidade desde criança: gostava de desmontar brinquedos eletrônicos só pra ver o que tinha dentro
 ```
 
 ---
