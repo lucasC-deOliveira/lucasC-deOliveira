@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/idGw983D7CHrrXa2eO/giphy.gif" width="100%" height="200px" alt="banner"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9D7CFF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Lucas+Carvalho!+%F0%9F%91%8B;Desenvolvedor+de+Sistemas;Automa%C3%A7%C3%A3o+de+Processos+%E2%9A%99%EF%B8%8F;Full+Stack+%7C+Python+%26+Java+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9D7CFF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Lucas+Carvalho!+%F0%9F%91%8B;Desenvolvedor+de+Sistemas;Automa%C3%A7%C3%A3o+de+Processos+%E2%9A%99%EF%B8%8F;Desenvolvedor+Full+Stack+JavaScript;Full+Stack+%7C+Python+%26+Java+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -20,6 +20,7 @@
 
 ```text
 🧑‍💻  Desenvolvedor de Sistemas e Automação de Processos, de Brasília-DF
+⚡  Também atuo como desenvolvedor Full Stack JavaScript (Node.js + React)
 🛠️  Gosto de microsserviços, integração via APIs e código limpo
 🎯  Foco em otimizar fluxos de trabalho e entregar com qualidade
 🌐  Português (nativo) · Inglês (C1) · Espanhol (básico)
