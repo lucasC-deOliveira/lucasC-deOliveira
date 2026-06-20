@@ -71,12 +71,15 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lucasC-deOliveira&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com/?user=lucasC-deOliveira&theme=dracula&hide_border=true" alt="GitHub Streak"/>
+  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=lucasC-deOliveira&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasC-deOliveira&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img width="70%" src="https://streak-stats.demolab.com/?user=lucasC-deOliveira&theme=dracula&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasC-deOliveira&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages"/>
 </div>
 
 ---
