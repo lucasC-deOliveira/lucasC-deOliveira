@@ -20,7 +20,7 @@
 
 ```text
 🧑‍💻  Desenvolvedor de Sistemas e Automação de Processos, de Brasília-DF
-⚡  Também atuo como desenvolvedor Full Stack JavaScript (Node.js + React)
+⚡  Atuo como desenvolvedor Full Stack JavaScript (Node.js + React)
 🛠️  Gosto de microsserviços, integração via APIs e código limpo
 🎯  Foco em otimizar fluxos de trabalho e entregar com qualidade
 🌐  Português (nativo) · Inglês (C1) · Espanhol (básico)
